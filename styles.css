@@ -4,3 +4,13 @@
     height: 80%;
     width: 40%;
 }
+
+#img-container {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    bottom:0px;
+    left: 40%;
+}
+
+                    
